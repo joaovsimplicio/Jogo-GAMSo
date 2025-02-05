@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - AumentarFlecha
+  - Arco
+  - espinho
+  - corda
+  - CheckPoint
+  - flechaNormal
+  - flechaFogo
+  - flechaGelo
+  - flechaLuz
+  - Agua
+  - Madeira
+  - Gelo
+  - Plataforma
+  - Corrupcao
+  - Camera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - Corda
+  - Flecha
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Rascunho
+    uniqueID: 1429192825
+    locked: 0
+  - name: FundoCaverna
+    uniqueID: 1300517015
+    locked: 0
+  - name: Fundo
+    uniqueID: 296456699
+    locked: 0
+  - name: Meio
+    uniqueID: 18117447
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Frente
+    uniqueID: 1091963697
+    locked: 0
+  - name: UI
+    uniqueID: 294283685
+    locked: 0

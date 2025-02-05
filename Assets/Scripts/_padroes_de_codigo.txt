@@ -1,0 +1,19 @@
+REGRINHAS PRA GENTE SE MANTER ORGANIZADO
+
+- nomes de classes, funcoes e variaveis em PORTUGUES sempre que possivel
+
+- nomes de classes sempre escritos iguais ao nome do arquivo (incluindo letras maiusculas e minusculas, se mudar um muda o outro)
+- nomes de classes e funções: TodaPalavraComLetraMaiuscula
+- nomes de variaveis: primeiraPalavraMinusculaRestoMaiuscula
+
+- sempre que der TAB pra espaçar o codigo confere se usa 4 espaços de cada vez, pra manter o codigo alinhado e n dar conflito estranho no git
+
+- lembre de COMENTAR O CÓDIGO quando for algo que não parecer imediatamente claro, pelo bem dos coleguinhas (e pro seu proprio pq vc vai esquecer o que vc fez)
+
+MANUAL DE CONFLITOS DO GIT
+
+- Se o github desktop apontar conflito em codigo que vc fez, é com voce pra ver o que vc mexeu que sobrepos o trabalho de outra pessoa 
+
+- Se o conflito for com mudanças no arquivo .scene pense: "a versao da cena que eu to trabalhando agora é a que todo o time precisa usar daqui em diante?" 
+    - se sim, envia as suas mudanças pro repositorio e sobrepoe a cena que ta la
+    - se não, fica com a cena que ja esta no github pra sincronizar com todo mundo

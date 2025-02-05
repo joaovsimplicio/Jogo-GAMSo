@@ -1,0 +1,732 @@
+fileFormatVersion: 2
+guid: b9a2e10aff34d4d4a9e1fefe3a0ba89f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pngzao_Celeste_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 80
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49152005a92c68448b29c339b8b4e05f
+      internalID: -1193908307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngzao_Celeste_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 80
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c8220b1b6fc0540a057db4e5978991
+      internalID: 862097378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngzao_Celeste_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 80
+        width: 18
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52380955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dae0deb5a634114b91ce584054d8005
+      internalID: -1396126227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngzao_Celeste_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 80
+        width: 18
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52380955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7690a0a21bdd51c4c8f108a934beaf4a
+      internalID: 1139662837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngzao_Celeste_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 19
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52380955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f437a07606a11e4d83dbb5df00019aa
+      internalID: -1755072878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngzao_Celeste_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 80
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa438555a8fab24fa293255b38e1e6a
+      internalID: -1603646557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngzao_Celeste_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 80
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c164de927f690a4a9f239fb3271a1a8
+      internalID: -1180115382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngzao_Celeste_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 55
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d394a51d55ea442a1d9f8f0b12a0ed
+      internalID: -1291917734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngzao_Celeste_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 55
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f501488b1bbb69743829a559c054ae88
+      internalID: 1535652649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngzao_Celeste_14
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 55
+        width: 20
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52380955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbd97fcb30776e459717cca7204c275
+      internalID: -293729968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngzao_Celeste_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 55
+        width: 20
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52380955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17beb43abfe0654fa50c3520ff6ae98
+      internalID: 2118061186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngzao_Celeste_16
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 55
+        width: 20
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.52380955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e4570ad81cb1b40b9c9df7f1ab3719
+      internalID: -190485799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngzao_Celeste_17
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 55
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fe945c4a62fea49804440a3a89b0e0
+      internalID: 795543090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngzao_Celeste_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 30
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f419e5d31811b8c4583b98a58c8a322d
+      internalID: -968812453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngzao_Celeste_21
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 30
+        width: 17
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c0819f627721841a88ae31f9bf5449
+      internalID: 1124498574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngzao_Celeste_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 30
+        width: 17
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8c0cb6300dcc74da9a41cbfa2f2c80
+      internalID: -2030772067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngzao_Celeste_23
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 30
+        width: 17
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078c6bea19f98ca46ac1e1ed19ccc5c1
+      internalID: 882303006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngzao_Celeste_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 30
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119922d172bedf44b9a91ed5a932a76e
+      internalID: -518134129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngzao_Celeste_25
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 30
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50ea8ad3bf51324a9f4f809e6dab0fb
+      internalID: -1561861349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngzao_Celeste_26
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 30
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb97aaa8d67208418fc77837c409925
+      internalID: 1277599295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngzao_Celeste_31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35107b4d9413d84c850d6fe9ee9f504
+      internalID: 1606636478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngzao_Celeste_32
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 5
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b7079b2f201fb4fa147caa5300cb5e
+      internalID: 1206119119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngzao_Celeste_33
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 5
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf58cad082e841b4d872f79e207da258
+      internalID: -278011412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngzao_Celeste_34
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 5
+        width: 17
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e05f7d4b463d0349a272cecbefd8bbf
+      internalID: 830742949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngzao_Celeste_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 5
+        width: 17
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b872e46b99babdf44af1ec2539837a39
+      internalID: 396009697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngzao_Celeste_36
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 5
+        width: 17
+        height: 23
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bbc8b56f2caba4ea6c222357064efd
+      internalID: -2091725608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pngzao_Celeste_37
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 5
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff344b4734cc094fb422e57e33c85a6
+      internalID: 722669354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pngzao_Celeste_0: -1193908307
+      Pngzao_Celeste_1: 862097378
+      Pngzao_Celeste_10: -800797861
+      Pngzao_Celeste_11: 1321083341
+      Pngzao_Celeste_12: -1291917734
+      Pngzao_Celeste_13: 1535652649
+      Pngzao_Celeste_14: -293729968
+      Pngzao_Celeste_15: 2118061186
+      Pngzao_Celeste_16: -190485799
+      Pngzao_Celeste_17: 795543090
+      Pngzao_Celeste_18: -639471488
+      Pngzao_Celeste_19: 1978591668
+      Pngzao_Celeste_2: -1396126227
+      Pngzao_Celeste_20: -968812453
+      Pngzao_Celeste_21: 1124498574
+      Pngzao_Celeste_22: -2030772067
+      Pngzao_Celeste_23: 882303006
+      Pngzao_Celeste_24: -518134129
+      Pngzao_Celeste_25: -1561861349
+      Pngzao_Celeste_26: 1277599295
+      Pngzao_Celeste_27: -1242227483
+      Pngzao_Celeste_28: 634999207
+      Pngzao_Celeste_29: -1077737275
+      Pngzao_Celeste_3: 1139662837
+      Pngzao_Celeste_30: -1911352268
+      Pngzao_Celeste_31: 1606636478
+      Pngzao_Celeste_32: 1206119119
+      Pngzao_Celeste_33: -278011412
+      Pngzao_Celeste_34: 830742949
+      Pngzao_Celeste_35: 396009697
+      Pngzao_Celeste_36: -2091725608
+      Pngzao_Celeste_37: 722669354
+      Pngzao_Celeste_38: 550749347
+      Pngzao_Celeste_39: -1531015563
+      Pngzao_Celeste_4: -1755072878
+      Pngzao_Celeste_40: -1514898413
+      Pngzao_Celeste_41: -807331571
+      Pngzao_Celeste_5: -1603646557
+      Pngzao_Celeste_6: -1180115382
+      Pngzao_Celeste_7: -1044785759
+      Pngzao_Celeste_8: -1331181544
+      Pngzao_Celeste_9: -1880992161
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
